@@ -1,0 +1,27 @@
+db.bookings.insert({
+    rooms: ObjectId('54823cdcc08c8c4394a0c373'),
+    users: ObjectId('54889abbd73bb29f1333e5a8'),
+    title: 'Personalisation Grooming PC3',
+    date: '2014-12-05T00:00:00.000Z',
+    starttime: '10:00',
+    endtime: '11:11',
+    description: ''
+});
+db.bookings.insert({
+    rooms: ObjectId('54823cdcc08c8c4394a0c374'),
+    users: ObjectId('54889abbd73bb29f1333e5a8'),
+    title: 'Personalisation Planning PC3',
+    date: '2014-12-08T00:00:00.000Z',
+    starttime: '11:00',
+    endtime: '12:00',
+    description: ''
+});
+db.bookings.insert({
+    rooms: ObjectId('54823cdcc08c8c4394a0c375'),
+    users: ObjectId('54889abbd73bb29f1333e5a8'),
+    title: 'Personalisation Retrospective PC3',
+    date: '2014-12-08T00:00:00.000Z',
+    starttime: '11:00',
+    endtime: '12:00',
+    description: ''
+});

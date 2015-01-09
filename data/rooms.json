@@ -1,0 +1,80 @@
+db.rooms.insert({
+    name: 'EBT - Floor 1 MR1',
+    number: '1',
+    description: 'Spacious room',
+    location: 'm',
+    capacity: '10',
+    picture: ''
+});
+db.rooms.insert({
+    name: 'EBT - Floor 1 MR2',
+    number: '1',
+    description: 'Spacious room',
+    location: 'm',
+    capacity: '10',
+    picture: ''
+});
+db.rooms.insert({
+    name: 'EBT - Floor 1 MR3',
+    number: '1',
+    description: 'Spacious room',
+    location: 'm',
+    capacity: '23',
+    picture: ''
+});
+db.rooms.insert({
+    name: 'EBT - Floor 1 MR4',
+    number: '1',
+    description: 'Spacious room',
+    location: 'm',
+    capacity: '21',
+    picture: ''
+});
+db.rooms.insert({
+    name: 'EBT - Floor 1 MR5',
+    number: '1',
+    description: 'Spacious room',
+    location: 'm',
+    capacity: '15',
+    picture: ''
+});
+db.rooms.insert({
+    name: 'EBT - Floor 2 MR1',
+    number: '1',
+    description: 'Spacious room',
+    location: 'm',
+    capacity: '10',
+    picture: ''
+});
+db.rooms.insert({
+    name: 'EBT - Floor 2 MR2',
+    number: '1',
+    description: 'Spacious room',
+    location: 'm',
+    capacity: '3',
+    picture: ''
+});
+db.rooms.insert({
+    name: 'EBT - Floor 2 MR3',
+    number: '1',
+    description: 'Spacious room',
+    location: 'm',
+    capacity: '9',
+    picture: ''
+});
+db.rooms.insert({
+    name: 'EBT - Floor 2 MR4',
+    number: '1',
+    description: 'Spacious room',
+    location: 'm',
+    capacity: '4',
+    picture: ''
+});
+db.rooms.insert({
+    name: 'EBT - Floor 2 MR5',
+    number: '1',
+    description: 'Spacious room',
+    location: 'm',
+    capacity: '11',
+    picture: ''
+});
